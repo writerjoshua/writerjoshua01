@@ -1,0 +1,41 @@
+/* Add your custom CSS styles here */
+header {
+  background-color: black;
+  color: white;
+  font-family: Georgia, serif;
+}
+
+.site-title {
+  font-size: 28pt;
+  font-style: italic;
+}
+
+.site-description {
+  font-size: 9pt;
+  font-style: italic;
+}
+
+.horizontal-navigation {
+  /* Style your horizontal navigation here */
+}
+
+.share-button {
+  /* Style your share button here */
+}
+
+.body-content {
+  /* Style your body content here */
+}
+
+.recent-posts {
+  /* Style your recent posts section here */
+}
+
+footer {
+  background-color: black;
+  color: white;
+}
+
+.footer-text {
+  /* Style your footer text here */
+}
